@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 # 📱 Kydras-Mobile-Termux — Mobile Red Team Toolkit
 
 Offensive scripts, payload builders, and live-tunnel setups for Android (Termux) operators.
@@ -13,4 +21,5 @@ OSINT, exploitation, and tunneling from mobile devices.
 ## 🟣 Roadmap
 ✅ Mobile recon and payloads  
 🟣 Stealth tunneling templates (Coming Soon)  
+
 
